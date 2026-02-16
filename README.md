@@ -4,7 +4,7 @@ A comprehensive, professional-grade cryptography and steganography suite built w
 
 ## Features
 
-### 🔐 Encryption Tools
+### Encryption Tools
 - **Morse Code** - Classic dot-dash encoding system
 - **Caesar Cipher** - Simple substitution cipher with customizable shift
 - **Vigenère Cipher** - Polyalphabetic substitution using keyword
@@ -13,12 +13,12 @@ A comprehensive, professional-grade cryptography and steganography suite built w
 - **Unicode Cipher** - Advanced encryption using Unicode character sets
 - **Daily Conversation Cipher** - Disguise messages as everyday conversation
 
-### 🖼️ Steganography
+### Steganography
 - **Image Steganography** - Hide secret text within image files
 - **LSB Technique** - Uses Least Significant Bit manipulation
 - **Download Support** - Save processed images with hidden messages
 
-### ✨ Professional Features
+### Professional Features
 - **Responsive Design** - Works seamlessly on desktop and mobile
 - **Modern UI/UX** - Clean, intuitive interface with smooth animations
 - **Copy to Clipboard** - One-click copying of results
@@ -47,7 +47,7 @@ A comprehensive, professional-grade cryptography and steganography suite built w
 
 ## Security Notes
 
-⚠️ **Important**: This tool is designed for educational purposes and hobby projects. While the implementations are mathematically correct, they should not be used for securing sensitive data in production environments.
+**Important**: This tool is designed for educational purposes and hobby projects. While the implementations are mathematically correct, they should not be used for securing sensitive data in production environments.
 
 ### Recommendations for Secure Communication:
 - Use established cryptographic libraries (OpenSSL, libsodium)
